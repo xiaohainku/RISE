@@ -1,0 +1,11 @@
+timm
+pysodmetrics
+PyYAML
+tqdm
+matplotlib
+opencv-python
+scikit-learn
+PyYAML
+tensorboardX
+scipy
+thop
