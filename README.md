@@ -46,7 +46,7 @@ Cluster maps, pseudo masks, and predicted maps are available at [Google](https:/
 
 ## Evaluation
 
-RISE consists of two stages: generating pseudo masks and training [SINet](https://github.com/GewelsJI/SINet-V2) based on pseudo masks.
+RISE consists of two stages: generating pseudo masks and training [SINet-V2](https://github.com/GewelsJI/SINet-V2) based on pseudo masks.
 
 ### 1. Generating pseudo masks
 
@@ -81,7 +81,7 @@ python retrieval.py \
 Step 1: Training
 
 ```shell
-cd SINet
+cd SINet-V2
 python MyTrain_Val.py \
 --img_root /your/train/image/path/ \
 --gt_root /your/pseudo/mask/path \
