@@ -107,11 +107,12 @@ RISE builds upon self-supervised vision foundation model [DINOv2](https://github
 If you find our work interesting, please consider using the following BibTeX entry:
 
 ```latex
-@INPROCEEDINGS{RISE,
-  title={Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection},
-  author={Du, Ji and Wang, Xin and Hao, Fangwei and Yu, Mingyang and Chen, Chunyuan and Wu, Jiesheng and Wang, Bin and Xu, Jing and Li, Ping},
-  booktitle={ICCV},
-  year={2025}
+@InProceedings{RISE,
+    author    = {Du, Ji and Wang, Xin and Hao, Fangwei and Yu, Mingyang and Chen, Chunyuan and Wu, Jiesheng and Wang, Bin and Xu, Jing and Li, Ping},
+    title     = {Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection},
+    booktitle = {IEEE International Conference on Computer Vision},
+    year      = {2025},
+    pages     = {22131-22142}
 }
 ```
 
