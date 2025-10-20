@@ -1,6 +1,6 @@
 # Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection
 
-> [**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**](https://github.com/xiaohainku/RISE)
+> [**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**](https://openaccess.thecvf.com/content/ICCV2025/papers/Du_Beyond_Single_Images_Retrieval_Self-Augmented_Unsupervised_Camouflaged_Object_Detection_ICCV_2025_paper.pdf)
 >
 > **ICCV 2025**
 >
