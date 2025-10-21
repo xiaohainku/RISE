@@ -100,7 +100,7 @@ python MyTesting.py \
 
 ## Acknowledgements
 
-RISE builds upon self-supervised vision foundation model [DINOv2](https://github.com/facebookresearch/dinov2) and unsupervised COD method [EASE](https://github.com/xiaohainku/EASE). Thanks for their elegant work.
+RISE builds upon self-supervised vision foundation model [DINOv2](https://github.com/facebookresearch/dinov2). Thanks for their elegant work.
 
 ## Citing
 
